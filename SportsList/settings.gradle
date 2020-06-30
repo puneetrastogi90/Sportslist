@@ -1,0 +1,3 @@
+include ':com.puneet.sportslist.app'
+include ':app'
+rootProject.name = "SportsList"
